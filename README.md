@@ -10,4 +10,4 @@
 
 ## Privacy La modifica avviene **sul file MP3** (campo commento): consiglia backup se servono metadati originali. 
 
-## Licenza MIT — vedi `LICENSE`.
+## Licenza MIT — vedi `Licenza`.
