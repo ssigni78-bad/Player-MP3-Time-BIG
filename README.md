@@ -1,4 +1,4 @@
-<img width="1401" height="938" alt="immagine" src="Preview.png" />
+<img width="1401" height="938" alt="immagine" src="Preview2.png" />
 
 ## Player MP3 Time BIG Lettore **MP3** per Windows (VB.NET) con **display del tempo ben visibile** e **Tag temporizzati**. I Tag vengono salvati nel **commento dell’MP3** per avere una cronologia “metricata” della traccia. 
 
